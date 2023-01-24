@@ -1,1 +1,2 @@
-# Chaos
+Chaos is a simple particle simulator that generates chaotic movements for ideal gas molecules in a closed system with a entropy control slider performing elastic collision with the container  created using JavaScript and canvas element.
+In physics, an elastic collision is an encounter (collision) between two bodies in which the total kinetic energy of the two bodies remains the same. In an ideal, perfectly elastic collision, there is no net conversion of kinetic energy into other forms such as heat, noise, or potential energy.
